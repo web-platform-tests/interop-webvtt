@@ -11,7 +11,7 @@ The purpose of this investigation is to fix as many tests as we can, making any 
 
 ## Who can contribute? And how?
 
-Anyone! As for now, you can contribue by joining our first meeting on Tuesday, July 22, 2025.
+Anyone! As for now, you can contribute by joining our first meeting on Tuesday, July 22, 2025.
 
 ## ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧
 
