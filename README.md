@@ -15,5 +15,5 @@ Anyone! As for now, you can contribute by joining our first meeting on Wednesday
 
 ## ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧
 
-More information to come!!!
+[Link to Google Sheet with WebVTT WPT data](https://docs.google.com/spreadsheets/d/1nptz6qW1oBc062QlWltwcQZyszxgJ0oX1jhnbWgQQ9E/edit?usp=sharing)
 
