@@ -11,7 +11,7 @@ The purpose of this investigation is to fix as many tests as we can, making any 
 
 ## Who can contribute? And how?
 
-Anyone! As for now, you can contribute by joining our [first meeting on Wednesday, July 23, 2025](https://github.com/web-platform-tests/interop-webvtt/issues/1).
+Anyone! You can contribute by joining our [next meeting over Zoom]([https://github.com/web-platform-tests/interop-webvtt/issues/1](https://github.com/web-platform-tests/interop-webvtt/issues?q=is%3Aissue%20state%3Aopen%20label%3Ameeting)) and filing issues.
 
 ## ✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧✧
 
